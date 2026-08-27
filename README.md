@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ranjit Sharma
 
-### 💻 Web Developer | DSA Enthusiast | Programmer
+### 💻 MERN Stack Developer | DSA Enthusiast | Programmer
 
 I am a developer passionate about building web applications and improving my problem-solving skills through Data Structures and Algorithms.
 
