@@ -97,6 +97,8 @@ I use GitHub to maintain my programming practice and learning journey.
 - Data Structures & Algorithms
 - Problem Solving
 - JavaScript
+- Bootstrap
+- Tailwind CSS
 - Node.js
 - Express.js
 - MongoDB
@@ -117,8 +119,8 @@ I use GitHub to maintain my programming practice and learning journey.
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add your LinkedIn URL
-- Email: Add your email
+- LinkedIn: https://www.linkedin.com/in/ranjitsharma74/
+- Email: ranjitsharma76088@mail.com
 
 ---
 
