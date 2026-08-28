@@ -41,7 +41,7 @@ My goal is to keep learning, keep building, and keep pushing my limits.
 
 | 🎯 | ❤️ | ⚡ | 🚀 |
 | :---: | :---: | :---: | :---: |
-| **Problem solver at heart** | **Love building full-stack web apps** | **Automate repetitive tasks & improve efficiency** | **Always learning, always building** |
+| **Problem solving** | **Building full-stack web apps** | **Automate repetitive tasks & improve efficiency** | **Learning, Building** |
 
 </div>
 
@@ -58,11 +58,11 @@ My goal is to keep learning, keep building, and keep pushing my limits.
   Worked on Upper Air Sounding System and Real-Time Visualization System. Gained hands-on exposure to design principles, data acquisition, processing and real-time visualization of atmospheric data.
 
 * 🎓 **Trident Academy of Technology, Bhubaneswar, Odisha**  
-  **B.Tech in Computer Science**  
+  **B.Tech in Computer Science & Information Technology**  
   *2023 – 2027*
 
-* 📚 **Self Learning & Practice**  
-  Continuously learning DSA, System Design, DevOps and Advanced Web Technologies. Building projects and solving problems on LeetCode and other platforms.
+* 📚 **Learning & Practice**  
+  learning DSA, Advanced Web Technologies. Building projects and solving problems on LeetCode.
 
 </td>
 <td width="50%" valign="top">
@@ -116,8 +116,6 @@ My goal is to keep learning, keep building, and keep pushing my limits.
 | Project | Tech Stack | Highlights |
 | :--- | :---: | :--- |
 | 🏠 **MajorProject**<br><sub>Property Listing Web App</sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ejs/ejs-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="25"/> | Full CRUD operations, image uploads, clean UI, RESTful APIs, MongoDB integration |
-| 👤 **User Management System**<br><sub>(Node.js + Express + EJS)</sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ejs/ejs-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="25"/> | User authentication, password verification, CRUD operations, EJS templates |
-| 🚀 **API Testing**<br><sub>REST APIs Testing</sub> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ejs/ejs-original.svg" width="25"/> | Designed & tested REST APIs, collections, auth flows, status codes |
 
 ---
 
