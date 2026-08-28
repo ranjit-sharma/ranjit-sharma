@@ -1,28 +1,21 @@
-👋 RANJIT SHARMA
-
 <div align="center">
 
-<span style="color:#58A6FF">RANJIT SHARMA</span> 🚀
+# RANJIT SHARMA 🚀
+### Full Stack Developer | MERN Stack Enthusiast
 
-💻 Full Stack Developer | <span style="color:#00C7B7">MERN</span> Stack Enthusiast
-
-<a href="https://linkedin.com/in/ranjitsharma">
-<img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge" />
-</a>
-<a href="mailto:ranjitsharma28072002@gmail.com">
-<img src="https://img.shields.io/badge/✉️_GMAIL-EA4335?style=for-the-badge" />
-</a>
-<a href="https://your-portfolio.com/">
-<img src="https://img.shields.io/badge/👤_PORTFOLIO-000000?style=for-the-badge" />
-</a>
-<a href="https://leetcode.com/ranjitsharma">
-<img src="https://img.shields.io/badge/⌘_LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjitsharma74/)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranjitsharma76088@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=about.me&logoColor=white)](#)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
+![Profile Views](https://komarev.com/ghpvc/?username=ranjit-sharma&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge)
 
 </div>
 
-👨‍💻 About Me
+---
 
+### 👤 About Me
+
+```json
 {
   "name": "Ranjit Sharma",
   "role": "Full Stack Developer | MERN Stack Enthusiast",
@@ -30,217 +23,122 @@
   "education": "B.Tech in Computer Science",
   "college": "Trident Academy of Technology, Bhubaneswar, Odisha",
   "passion": "Building web applications that solve real-world problems",
-  "interests": [
-    "Web Development",
-    "Backend Development",
-    "REST API Development",
-    "Database Management",
-    "Data Structures & Algorithms",
-    "Problem Solving"
-  ],
-  "currently_learning": [
-    "MERN Stack",
-    "Advanced JavaScript",
-    "DSA"
-  ],
-  "goal": "To grow as a software developer while building useful products"
+  "currently_learning": ["System Design", "Cloud", "DSA", "DevOps"],
+  "interests": ["Web Development", "API Design", "Problem Solving", "Automation"],
+  "goal": "To work in a challenging environment and grow while building impactful products"
 }
+```
 
-💡 What Drives Me
+---
 
-I love turning ideas into real applications and solving real-world problems with code.
-I enjoy building full-stack applications, working with APIs and databases, and continuously improving my development skills.
+### 💡 What Drives Me
+
+I love turning ideas into real products and solving real-world problems with code.  
+I enjoy writing clean, efficient code and building things that make a difference.  
+My goal is to keep learning, keep building, and keep pushing my limits.
 
 <div align="center">
 
-🎯
-
-❤️
-
-⚡
-
-🚀
-
-Problem Solver
-
-Love Building
-
-Backend & APIs
-
-Always Learning
-
-Solving problems through code
-
-Building full-stack web apps
-
-Working with APIs & databases
-
-Learning and improving
+| 🎯 | ❤️ | ⚡ | 🚀 |
+| :---: | :---: | :---: | :---: |
+| **Problem solver at heart** | **Love building full-stack web apps** | **Automate repetitive tasks & improve efficiency** | **Always learning, always building** |
 
 </div>
 
-💼 Experience & Education
+---
 
+<table border="0">
+<tr>
+<td width="50%" valign="top">
 
+### 💼 Experience & Education
 
-Experience & Education
+* 🔬 **DRDO Internship** *(June 2026 – July 2026)*  
+  **Upper Air Sounding System & Real-Time Visualization System**  
+  Worked on Upper Air Sounding System and Real-Time Visualization System. Gained hands-on exposure to design principles, data acquisition, processing and real-time visualization of atmospheric data.
 
-Tech Stack
+* 🎓 **Trident Academy of Technology, Bhubaneswar, Odisha**  
+  **B.Tech in Computer Science**  
+  *2023 – 2027*
 
-🇮🇳
+* 📚 **Self Learning & Practice**  
+  Continuously learning DSA, System Design, DevOps and Advanced Web Technologies. Building projects and solving problems on LeetCode and other platforms.
 
-DRDO Internship / Training
-June 2026 – July 2026
+</td>
+<td width="50%" valign="top">
 
-Upper Air Sounding System & Real-Time Visualization System
+### 💻 Tech Stack
 
-• Upper air sounding system
-• Real-time data visualization
-• Atmospheric data acquisition
-• Data processing and visualization
-• Practical exposure to a professional technical environment
-
-
-
-🎓
-
-Trident Academy of Technology
-Bhubaneswar, Odisha
-
-B.Tech in Computer Science
-2023 – 2027
-
-
-
-📚
-
-Self Learning & Practice
-
-Continuously improving DSA, web development, backend development, REST APIs and database skills through projects and practice.
-
-
-
-🛠️ Tech Stack
-
-💻 Programming Languages
-
+#### 🔹 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </p>
 
-Java • C • C++ • JavaScript
-
-🌐 Frontend
-
+#### 🔹 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ejs,react,tailwind,bootstrap" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ejs/ejs-original.svg" alt="EJS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
 </p>
 
-HTML5 • CSS3 • JavaScript • EJS • React • Tailwind CSS • Bootstrap
-
-⚙️ Backend
-
+#### 🔹 Backend & Database Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
 
-Node.js • Express.js
-
-🗄️ Database & API Tools
-
+#### 🔹 Other Skills & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postman" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
 </p>
 
-MongoDB • Mongoose • MySQL • REST APIs • Postman
+</td>
+</tr>
+</table>
 
-🔧 Development Tools
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
-</p>
+### 🚀 Featured Projects
 
-Git • GitHub • VS Code • npm
+| Project | Tech Stack | Highlights |
+| :--- | :---: | :--- |
+| 🏠 **MajorProject**<br><sub>Property Listing Web App</sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ejs/ejs-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="25"/> | Full CRUD operations, image uploads, clean UI, RESTful APIs, MongoDB integration |
+| 👤 **User Management System**<br><sub>(Node.js + Express + EJS)</sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ejs/ejs-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="25"/> | User authentication, password verification, CRUD operations, EJS templates |
+| 🚀 **API Testing**<br><sub>REST APIs Testing</sub> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ejs/ejs-original.svg" width="25"/> | Designed & tested REST APIs, collections, auth flows, status codes |
 
-🚀 Featured Projects
+---
 
-Project
-
-Tech Stack
-
-Highlights
-
-🏠 MajorProject
-Property Listing Web App
-
-Node.js • Express.js • EJS • MongoDB • Mongoose
-
-Full CRUD operations • MongoDB integration • RESTful routes • Validation • EJS templates
-
-👤 User Management System
-Backend Web Application
-
-Node.js • Express.js • EJS • MySQL
-
-User management • CRUD operations • Password verification • MySQL integration
-
-🔌 REST API Testing
-
-REST APIs • Postman
-
-API endpoints • GET/POST/PUT/PATCH/DELETE • JSON • Request/response testing
-
-🧠 Core Skills
+### 📊 GitHub Stats & Streak
 
 <div align="center">
 
-Data Structures & Algorithms • Problem Solving • CRUD Operations • REST APIs
-Middleware • Routing • Database Management • Git & GitHub
+![Ranjit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranjit-sharma&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ranjit-sharma&theme=dark)
 
 </div>
 
-📊 GitHub Stats
+---
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ranjit-sharma&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+### 🤝 Let's Connect & Build Something Amazing!
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjit-sharma&layout=compact&theme=dark&hide_border=true" />
+📧 [ranjitsharma76088@gmail.com](mailto:ranjitsharma76088@gmail.com) | 🌐 [Portfolio](#) | 💼 [LinkedIn](https://www.linkedin.com/in/ranjitsharma74/) | 🧩 [LeetCode](#)
 
-</div>
-
-🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=ranjit-sharma&theme=dark&hide_border=true" />
-
-</div>
-
-📈 Contribution Graph
-
-<div align="center">
-
-
-
-</div>
-
-🤝 Let's Connect & Build Something Amazing!
-
-<div align="center">
-
-<a href="mailto:ranjitsharma28072002@gmail.com">📧 Email</a>
-  •  
-<a href="https://linkedin.com/in/ranjitsharma">💼 LinkedIn</a>
-  •  
-<a href="https://leetcode.com/ranjitsharma">🧩 LeetCode</a>
-  •  
-<a href="https://github.com/ranjit-sharma">🐙 GitHub</a>
-
-<br><br>
-
-🚀 Keep Learning • Keep Building • Keep Improving
-
-"Code. Build. Learn. Repeat."
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 </div>
