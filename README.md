@@ -1,341 +1,129 @@
-👋 Hi, I'm Ranjit Sharma
+# RANJIT SHARMA
+
+**Full Stack Developer | MERN Stack Enthusiast** 🚀
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ranjitsharma)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranjitsharma@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github)](https://your-portfolio.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/ranjitsharma)
 
-💻 Full Stack Developer | Backend Developer | DSA Learner 🚀
+**Profile Views:** ![Profile views](https://komarev.com/ghpvc/?username=ranjit-sharma)
 
-I enjoy building web applications, working with backend technologies, databases and APIs, while continuously improving my problem-solving skills.
+---
 
-</div>
+## 👋 About Me
 
-👨‍💻 About Me
+```json
+{
+  "name": "Ranjit Sharma",
+  "role": "Full Stack Developer | MERN Stack Enthusiast",
+  "location": "Bhubaneswar, Odisha, India",
+  "education": "B.Tech in Computer Science",
+  "college": "Trident Academy of Technology, Bhubaneswar, Odisha",
+  "passion": "Building web applications that solve real-world problems",
+  "currently_learning": ["System Design", "Cloud", "DSA"],
+  "interests": ["Web Development", "API Design", "Automation", "Problem Solving"],
+  "goal": "To work in a challenging environment and grow while building impactful products"
+}
+```
 
-const ranjit = {
-    name: "Ranjit Sharma",
-    college: "Trident Academy of Technology, Bhubaneswar, Odisha",
-    degree: "B.Tech in Computer Science",
-    interests: [
-        "Web Development",
-        "Backend Development",
-        "REST APIs",
-        "Database Development",
-        "Data Structures & Algorithms"
-    ],
-    currentlyLearning: [
-        "Full Stack Development",
-        "Backend Development",
-        "DSA"
-    ]
-};
+---
 
-🛠️ Tech Stack
+## 💡 What Drives Me
 
-💻 Programming Languages
+> I love turning ideas into real products and solving real-world problems with code.
+> I enjoy writing clean, efficient code and building things that make a difference.
+> My goal is to keep learning, keep building, and keep pushing my limits.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,js" />
-</p>
+| 🎯 | ❤️ | ⚡ | 📚 |
+|---|---|---|---|
+| **Problem solver at heart** | **Love building full-stack web applications** | **Automate repetitive tasks & improve efficiency** | **Always learning, always building** |
 
-Java • C • C++ • JavaScript
+---
 
-🌐 Frontend
+## 🏢 Experience & Education
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ejs,tailwind,bootstrap" />
-</p>
+### 💼 DRDO Internship
+**Upper Air Sounding System & Real-Time Visualization System** | *June 2026 - July 2026*
+- Worked on Upper Air Sounding System and Real-Time Visualization System
+- Gained hands-on exposure to design principles, data acquisition, processing and real-time visualization of atmospheric data
 
-HTML5 • CSS3 • JavaScript • React • EJS • Tailwind CSS • Bootstrap
+### 🎓 Trident Academy of Technology, Bhubaneswar, Odisha
+**B.Tech in Computer Science** | *2023 - 2027*
 
-⚙️ Backend
+### 📖 Self Learning & Practice
+- Continuously learning DSA, System Design, DevOps and Advanced Web Technologies
+- Building projects and solving problems on LeetCode and other platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+---
 
-Node.js • Express.js
+## 💻 Tech Stack
 
-RESTful API development
+### 🔹 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Routing
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![EJS](https://img.shields.io/badge/EJS-90C53F?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-Middleware
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-CRUD operations
+### 🗄️ Database & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-Request & response handling
+### 🛠️ Other Skills & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-Async/Await
+---
 
-Error handling
+## 🚀 Featured Projects
 
-Server-side rendering with EJS
+| Project | Tech Stack | Highlights |
+|---------|-----------|-----------|
+| **MajorProject - Property Listing Web App** | EJS, EJS, Mongoose | Full CRUD operations, Image uploads, Clean UI, RESTful APIs, MongoDB integration |
+| **User Management System** | Node.js, Express, EJS | User authentication, password verification, CRUD operations, EJS templates |
+| **API Testing** | REST API Testing | Designed & tested REST APIs, collections, auth flows, status codes |
 
-🗄️ Databases
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+## 📊 GitHub Stats
 
-MongoDB • Mongoose • MySQL
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranjit-sharma&show_icons=true&theme=dark)
 
-MongoDB
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjit-sharma&layout=compact&theme=dark)
 
-Mongoose
+---
 
-Schemas & Models
+## 🔥 GitHub Streak
 
-CRUD operations
+![GitHub Streak](https://streak-stats.demolab.com?user=ranjit-sharma&theme=dark)
 
-SQL
+---
 
-Database integration
+## 📞 Let's Connect & Build Something Amazing!
 
-🔌 APIs & API Testing
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranjitsharma@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ranjitsharma)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/ranjitsharma)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postman" />
-</p>
+---
 
-REST APIs • Postman
-
-GET
-
-POST
-
-PUT
-
-PATCH
-
-DELETE
-
-JSON
-
-Request/Response handling
-
-API endpoint testing
-
-Status codes
-
-Testing API payloads
-
-🔧 Tools & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
-</p>
-
-Git • GitHub • VS Code • npm
-
-🧠 Core Skills
-
-Data Structures & Algorithms
-
-Problem Solving
-
-Full Stack Web Development
-
-Backend Development
-
-REST API Development
-
-CRUD Operations
-
-Database Management
-
-Middleware
-
-Validation
-
-Error Handling
-
-Git & GitHub
-
-API Testing
-
-🎓 Education
-
-🏫 Trident Academy of Technology
-
-Bhubaneswar, Odisha
-
-B.Tech in Computer Science
-
-🇮🇳 Internship & Training
-
-🛰️ DRDO Internship Training
-
-Defence Research and Development Organisation (DRDO)
-📅 June 2026 – July 2026
-
-Project / Training Area
-
-Upper Air Sounding System & Real-Time Visualization System
-
-During the internship training, I worked around the concepts and technical workflow involved in an Upper Air Sounding System and a Real-Time Visualization System.
-
-🔍 Key Areas
-
-Upper Air Sounding System
-
-Real-time data visualization
-
-Data acquisition concepts
-
-Processing and visualization of atmospheric data
-
-Understanding real-time system workflows
-
-Technical documentation and structured development
-
-This training provided practical exposure to working with a real-world technical system and helped me understand how data can be collected, processed and visualized in real time.
-
-🚀 Projects
-
-🏠 MajorProject — Property Listing Web Application
-
-A full-stack property listing application built using:
-
-Node.js • Express.js • MongoDB • Mongoose • EJS • HTML • CSS • JavaScript
-
-Features
-
-🏠 Property listings
-
-➕ Create listings
-
-👀 View listing details
-
-✏️ Edit listings
-
-🗑️ Delete listings
-
-🗄️ MongoDB integration
-
-🔄 CRUD operations
-
-🧩 EJS layouts and partials
-
-🛡️ Validation
-
-⚠️ Error handling
-
-🔗 GitHub:
-https://github.com/ranjit-sharma/MajorProject
-
-👤 User Management System
-
-A user management application built using:
-
-Node.js • Express.js • EJS • MySQL
-
-Features
-
-User management
-
-CRUD operations
-
-MySQL database integration
-
-Express.js routes
-
-EJS views
-
-Password verification functionality
-
-🔌 API Development
-
-I work with REST APIs and understand the basic API development workflow:
-
-Client
-   ↓
-HTTP Request
-   ↓
-Express.js Route
-   ↓
-Backend Logic
-   ↓
-Database
-   ↓
-HTTP Response
-   ↓
-Client
-
-HTTP Methods
-
-Method
-
-Usage
-
-GET
-
-Fetch data
-
-POST
-
-Create data
-
-PUT
-
-Update data
-
-PATCH
-
-Partially update data
-
-DELETE
-
-Remove data
-
-I use Postman to create and test API requests, inspect responses, verify status codes and debug backend endpoints.
-
-📚 What I Know
-
-Frontend
-
-HTML • CSS • JavaScript • React • EJS • Tailwind CSS • Bootstrap
-
-Backend
-
-Node.js • Express.js • REST APIs • Middleware • CRUD
-
-Databases
-
-MongoDB • Mongoose • MySQL • SQL
-
-Programming
-
-Java • C • C++ • JavaScript
-
-Tools
-
-Git • GitHub • VS Code • npm • Postman
-
-Problem Solving
-
-DSA • Arrays • Strings • Searching • Sorting • Logical Problems
-
-📈 Currently Improving
-
-🧠 Data Structures & Algorithms
-
-⚙️ Backend Development
-
-🔌 REST API Development
-
-🗄️ Database Management
-
-🌐 Full Stack Development
-
-⚛️ React
-
-🚀 Building real-world projects
-
-<div align="center">
-
-🤝 Let's Connect & Build Something!
-
-Thanks for visiting my profile! ⭐
-
-🚀 Keep Learning • Keep Building • Keep Improving
-
-</div>
+**"Code is like humor. When you have to explain it, it's bad." – Cory House**
