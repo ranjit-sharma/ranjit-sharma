@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjitsharma74/)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranjitsharma76088@gmail.com)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=about.me&logoColor=white)](#)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ranjit748/)
 ![Profile Views](https://komarev.com/ghpvc/?username=ranjit-sharma&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge)
 
 </div>
@@ -137,7 +137,7 @@ My goal is to keep learning, keep building, and keep pushing my limits.
 
 ### 🤝 Let's Connect & Build Something Amazing!
 
-📧 [ranjitsharma76088@gmail.com](mailto:ranjitsharma76088@gmail.com) | 🌐 [Portfolio](#) | 💼 [LinkedIn](https://www.linkedin.com/in/ranjitsharma74/) | 🧩 [LeetCode](#)
+📧 [ranjitsharma76088@gmail.com](mailto:ranjitsharma76088@gmail.com) | 🌐 [Portfolio](#) | 💼 [LinkedIn](https://www.linkedin.com/in/ranjitsharma74/) | 🧩 [LeetCode](https://leetcode.com/u/ranjit748/)
 
 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
