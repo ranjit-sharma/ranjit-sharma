@@ -65,7 +65,7 @@ My goal is to keep learning, keep building, and keep pushing my limits.
   learning DSA, Advanced Web Technologies. Building projects and solving problems on LeetCode.
 
 </td>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 💻 Tech Stack
 
