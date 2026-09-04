@@ -23,19 +23,11 @@
   "education": "B.Tech in Computer Science",
   "college": "Trident Academy of Technology, Bhubaneswar, Odisha",
   "passion": "Building web applications that solve real-world problems",
-  "currently_learning": ["System Design", "Cloud", "DSA", "DevOps"],
-  "interests": ["Web Development", "API Design", "Problem Solving", "Automation"],
-  "goal": "To work in a challenging environment and grow while building impactful products"
+  "interests": ["Web Development", "API Design", "Problem Solving", "Automation"]
 }
 ```
 
 ---
-
-### 💡 What Drives Me
-
-I love turning ideas into real products and solving real-world problems with code.  
-I enjoy writing clean, efficient code and building things that make a difference.  
-My goal is to keep learning, keep building, and keep pushing my limits.
 
 <div align="center">
 
