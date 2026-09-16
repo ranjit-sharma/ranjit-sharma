@@ -13,7 +13,7 @@
 
 ---
 
-### 👤 About Me
+###  About Me
 
 ```json
 {
@@ -32,23 +32,23 @@
 <tr>
 <td width="50%" valign="top">
 
-### 💼 Experience & Education
+###  Experience & Education
 
-* 🔬 **DRDO Internship** *(June 2026 – July 2026)*  
+*  **DRDO Internship** *(June 2026 – July 2026)*  
   **Upper Air Sounding System & Real-Time Visualization System**  
   Worked on Upper Air Sounding System and Real-Time Visualization System. Gained hands-on exposure to design principles, data acquisition, processing and real-time visualization of atmospheric data.
 
-* 🎓 **Trident Academy of Technology, Bhubaneswar, Odisha**  
+*  **Trident Academy of Technology, Bhubaneswar, Odisha**  
   **B.Tech in Computer Science & Information Technology**  
   *2023 – 2027*
 
-* 📚 **Learning & Practice**  
+*  **Learning & Practice**  
   learning DSA, Advanced Web Technologies. Building projects and solving problems on LeetCode.
 
 </td>
 <td width="100%" valign="top">
 
-### 💻 Tech Stack
+###  Tech Stack
 
 #### 🔹 Programming Languages
 <p>
@@ -92,7 +92,7 @@
 
 ---
 
-### 📊 GitHub Stats & Streak
+###  GitHub Stats & Streak
 
 <div align="center">
 
