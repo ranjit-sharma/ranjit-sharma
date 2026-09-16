@@ -103,14 +103,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Tech Stack | Highlights |
-| :--- | :---: | :--- |
-| 🏠 **MajorProject**<br><sub>Property Listing Web App</sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ejs/ejs-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="25"/> | Full CRUD operations, image uploads, clean UI, RESTful APIs, MongoDB integration |
-
----
-
 ### 📊 GitHub Stats & Streak
 
 <div align="center">
@@ -122,12 +114,3 @@
 
 ---
 
-<div align="center">
-
-### 🤝 Let's Connect & Build Something Amazing!
-
-📧 [ranjitsharma76088@gmail.com](mailto:ranjitsharma76088@gmail.com) | 🌐 [Portfolio](#) | 💼 [LinkedIn](https://www.linkedin.com/in/ranjitsharma74/) | 🧩 [LeetCode](https://leetcode.com/u/ranjit748/)
-
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-</div>
