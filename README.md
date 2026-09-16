@@ -26,17 +26,6 @@
   "interests": ["Web Development", "API Design", "Problem Solving", "Automation"]
 }
 ```
-
----
-
-<div align="center">
-
-| 🎯 | ❤️ | ⚡ | 🚀 |
-| :---: | :---: | :---: | :---: |
-| **Problem solving** | **Building full-stack web apps** | **Automate repetitive tasks & improve efficiency** | **Learning, Building** |
-
-</div>
-
 ---
 
 <table border="0">
