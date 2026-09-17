@@ -96,7 +96,6 @@
 
 <div align="center">
 
-![Ranjit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranjit-sharma&show_icons=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ranjit-sharma&theme=dark)
 
 </div>
