@@ -22,7 +22,6 @@
   "location": "Bhubaneswar, Odisha, India",
   "education": "B.Tech in Computer Science",
   "college": "Trident Academy of Technology, Bhubaneswar, Odisha",
-  "passion": "Building web applications that solve real-world problems",
   "interests": ["Web Development", "API Design", "Problem Solving", "Automation"]
 }
 ```
