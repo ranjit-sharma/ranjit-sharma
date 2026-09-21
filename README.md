@@ -59,7 +59,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind", />
 </p>
 
-#### 🔹 Backend & Database Tools
+#### 🔹 Backend, Database & APIs
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postman", />
 
