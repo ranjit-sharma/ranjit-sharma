@@ -1,7 +1,7 @@
 <div align="center">
 
 # RANJIT SHARMA 
-### Full Stack Developer | MERN Stack Enthusiast
+### Full Stack Developer | MERN Stack Enthusiast.
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjitsharma74/)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranjitsharma76088@gmail.com)
