@@ -67,7 +67,7 @@
 
 #### 🔹 Other Skills & Tools
 <p>
-   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,npm,", />
+   <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,", />
 </p>
 
 </td>
